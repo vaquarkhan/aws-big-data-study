@@ -103,6 +103,8 @@ Implementing AWS: Design, Build, and Manage your Infrastructure by Yohan Wadia; 
 
 Learning Big Data with Amazon Elastic MapReduce by Vijay Rayapati; Amarkant Singh
 
+- https://towardsdatascience.com/preparing-for-the-aws-database-specialty-certification-7-steps-2b43aeda2e4e
+
 ### White Papers
 
 * [Big Data Analytics Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
